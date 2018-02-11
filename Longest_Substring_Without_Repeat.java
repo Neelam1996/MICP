@@ -1,6 +1,6 @@
 package Week1_Longest_Substring_without_repeat;
 import java.util.Scanner;
-import org.junit.Assert;
+
 public class Longest_Substring_Without_Repeat {
 
 	public static void main(String[] args) {
